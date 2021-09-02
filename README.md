@@ -1,2 +1,2 @@
 # Email_Sender
-# This is a automated program 
+A Python script to send emails 
